@@ -17,7 +17,7 @@ def main():
     golf.SetOwner("ameer rahal")
     golf.GetOwner()
 
-#print("github nesayon.......")
+#print("github nesayon....fdfsdfs...")
 
 
 main()
