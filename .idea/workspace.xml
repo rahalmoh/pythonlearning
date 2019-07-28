@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="7aca5f55-2665-4542-85b5-2134e19c6b4a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Class.py" afterPath="$PROJECT_DIR$/Class.py" />
     </list>
+=======
+    <list default="true" id="7aca5f55-2665-4542-85b5-2134e19c6b4a" name="Default" comment="" />
+>>>>>>> Stashed changes
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
